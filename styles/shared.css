@@ -1,0 +1,28 @@
+body {
+  background-color: hsl(60, 33%, 97%);
+  color: hsl(80, 3%, 21%);
+  font-family: "Fira Sans", sans-serif;
+  margin: 80px 0;
+  text-align: center;
+}
+
+h1 {
+  color: hsl(272, 19%, 32%);
+  font-family: "Oswald", sans-serif;
+  font-size: 52px;
+  font-weight: bold;
+}
+
+a {
+  color: hsl(275, 76%, 32%);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 24px;
+}
