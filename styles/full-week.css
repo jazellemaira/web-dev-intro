@@ -1,0 +1,65 @@
+header {
+  margin-bottom: 64px;
+}
+
+h1 {
+  color: hsla(274, 30%, 34%, 0.89);
+  font-size: 48px;
+}
+
+#description {
+    font-size: 20px;
+    margin-bottom: 12px 0;
+}
+
+/* header p {
+  margin-bottom: 20px;
+} */
+
+a {
+  border: 1px solid hsl(314, 35%, 51%);
+  background-color: hsl(314, 35%, 51%);
+  border-radius: 6px;
+  color: white;
+  display: inline-block;
+  font-size: 24px;
+  padding: 8px 40px;
+}
+
+a:hover {
+  background-color: hsl(314, 45%, 51%);
+  text-decoration: none;
+}
+
+ol {
+  list-style: none;
+  margin: 36px auto 0 auto;
+  padding: 0;
+  width: 500px;
+}
+
+li {
+  background-color: rgb(224, 215, 215);
+  border-radius: 6px;
+  box-shadow: 1px 1px 4px hsla(0, 0%, 0%, 0.3);
+  color: hsla(271, 91%, 69%, 0.89);
+  font-size: 30px;
+  margin: 32px;
+  padding: 16px;
+}
+
+h2 {
+  color: hsla(271, 41%, 47%, 0.89);
+  font-family: "Oswald", sans-serif;
+  font-size: ;
+  margin: 14px 0 20px 0;
+}
+
+main p {
+  color: hsla(271, 85%, 65%, 0.89);
+  margin: 12px;
+}
+
+.highlight-goal {
+  background-color: hsl(280, 27%, 81%);
+}
